@@ -1,0 +1,6 @@
+Flask
+pytube
+opencv-python-headless
+pytesseract
+python-pptx
+reportlab
